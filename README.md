@@ -4,7 +4,7 @@ This JavaFX project allows users to add, view, and remove different types of dev
 ## How to Run the Program
 1. Ensure you have Java and JavaFX installed.
 2. Clone this repository:
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/mahominato/Electronic-Devices)
+git clone (https://github.com/mahominato/Electronic-Devices)
 3. Open the project in an IDE like IntelliJ IDEA.
 4. Run the `HelloApplication` class to start the GUI.
 
